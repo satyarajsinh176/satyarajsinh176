@@ -61,7 +61,7 @@ Building the future of Digital Hardware with <b>FPGA</b> and <b>Verilog HDL</b>
 
 **Email**
 
-202304003@dau.ac.in
+satyarajsinh1717@gmail.com
 
 **LinkedIn**
 
@@ -71,4 +71,7 @@ https://linkedin.com/in/satyarajsinh-gohil-vlsi
 
 <p align="center">
 <i>"Learning, Building, and Optimizing Digital Hardware—One Clock Cycle at a Time."</i>
+</p>
+<p align="center">
+<i>"IMPROVE"</i>
 </p>
